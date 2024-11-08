@@ -1,0 +1,10 @@
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+<html>
+    <body>
+        You searched for interaction type:
+        <pre style="background-color: rgb(252, 245, 245); margin-left: 5em">{{ interaction_type }}</pre>
+        Result:
+        <pre style="background-color: rgb(234, 236, 241); margin-left: 5em">{{ analysis }}</pre>
+        <img src="{{ url_for('static', filename='interaction_plot.png') }}" alt="Interaction Plot" style="width:100%; max-width:1200px;">
+    </body>
+</html>
