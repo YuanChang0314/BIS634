@@ -1,10 +1,10 @@
 # BIS634
-course project & homework about BIS634 computational method at Yale university
+Course project & homework about BIS634 computational method at Yale university
 
 
 
 
-Problem Set 0
+### Problem Set 0
 
 Libraries: pandas, matplotlib, sqlite3
 
@@ -13,7 +13,7 @@ Methods/Algorithms: Python closures for threshold checks; time-series plotting a
 
 
 
-Problem Set 1
+### Problem Set 1
 
 Libraries: xml.etree.ElementTree, matplotlib, custom BST implementation
 
@@ -22,7 +22,7 @@ Methods/Algorithms: XML parsing; histogram generation; O(n) scan and O(log n) 
 
 
 
-Problem Set 2
+### Problem Set 2
 
 Libraries: mmh3 (for Bloom filter), multiprocessing, matplotlib, Biopython (Entrez API), scikit-learn (PCA), sentence-transformers
 
@@ -30,8 +30,7 @@ Methods/Algorithms: Bloom filter with multiple hash functions; parallel merge so
 
 
 
-
-Problem Set 3
+### Problem Set 3
 
 Libraries: NumPy, SciPy, scikit-learn, Flask, Cartopy
 
@@ -39,7 +38,7 @@ Methods/Algorithms: 2D gradient descent with finite-difference gradients; k-mean
 
 
 
-Problem Set 4
+### Problem Set 4
 
 Libraries: Biopython, NumPy, scikit-learn, mpi4py, matplotlib
 
